@@ -20,12 +20,13 @@
     background-color: #4c53af; /* Green */
     border: none;
     color: white;
-    padding: 16px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
-    margin: 233px 600px;
+    font-size: 15px;
+    width: 150px;
+    height: 50px;
+    margin: 373px 600px;
     transition-duration: 0.4s;
     cursor:progress;
     position: absolute;
